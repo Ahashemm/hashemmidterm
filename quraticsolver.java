@@ -7,7 +7,7 @@ public class quraticsolver {
 		int b = 3;
 		int c = 2;
 		if (b*b - 4*a*c <0)
-			System.out.println("This equation " + d + "x^2 + " + e +"x + " + f +" has no solution");
+			System.out.println("This equation " + a + "x^2 + " + b +"x + " + c +" has no solution");
 		else
 			{
 				System.out.println("The solution for the equation " + a + "x^2 + " + b +"x + " + c +" are");
